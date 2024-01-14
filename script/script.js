@@ -1,17 +1,18 @@
 "use strict";
 
-let f = 8;
-let m = 3;
-let addition = f + m;
+let x = 8;
+let y = 3;
+let addition = x + y;
 console.log(addition);
 
-let subtraction = f - m;
+let subtraction = x - y;
 console.log(subtraction);
 
-let multiplication = f * m;
+let multiplication = x * y;
 console.log(multiplication);
 
-let division = f / m;
+let division = x / y;
 console.log(division);
 
-console.log(f ** 2);
+let exponentiation = x ** 2;
+console.log(exponentiation);
